@@ -2,7 +2,7 @@ total = more_thousand = cheaper = 0
 
 print(
     '-' * 30,
-    '\n{:^30}'.format('LOJA  SUPER  BARATÃO') + '\n' +
+    '\n{:^30}\n'.format('LOJA  SUPER  BARATÃO') +
     '-' * 30
 )
 
