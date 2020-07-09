@@ -20,4 +20,4 @@ for word in words:
         if letter in 'AEIOU':
             print(f'{letter.lower()}', end=' ')
 
-    print()
+    print()A
